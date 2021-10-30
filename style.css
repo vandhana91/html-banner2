@@ -1,0 +1,100 @@
+.main-cont h1{
+    text-align: center;
+    color: crimson;
+    font-weight: bolder;
+    font-size:300%;
+}
+.main-cont h4{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 0.7;
+}
+.main-cont{
+    background-color: rgba(70, 63, 63, 0.911);
+    height:400vh;
+    width:50%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    
+}
+.one-cont {
+    color:white;
+    text-align: center;
+    width:50%;
+    float:left;
+}
+.orange{
+    background-color:orange;
+    
+}
+.blue{
+    background-color:rgba(118, 215, 240, 0.705);
+}
+.two-cont {
+    color:white;
+    
+    background-color:rgba(255, 0, 0, 0.705);
+    width:100%;
+    float:left;
+}
+.three-cont {
+    color:white;
+    text-align: center;
+    width:50%;
+    float:left;
+}
+.blue1{
+    background-color:rgba(118, 215, 240, 0.705);
+    
+}
+.three-cont2{
+    background-color:rgba(118, 215, 240, 0.705);
+}
+.four-cont{
+    color:white;
+    text-align: center;
+    width:50%;
+    float:left;
+    margin: 0 auto;
+	
+    
+}
+.orange1{
+    background-color:orange;
+    line-height: 100%;
+    
+}
+.red{
+    background-color:rgba(218, 84, 106, 0.89);
+    line-height: 100%;
+    
+	
+}
+.five-cont {
+    color:white;
+    
+    background-color:rgba(118, 215, 240, 0.705);
+    width:100%;
+    float:left;
+}
+
+.six-cont {
+    color:white;
+    
+    background-color:orange;
+    width:100%;
+    margin-top : 20px;
+    float:left;
+}
+.seven-cont {
+    color:white;
+    
+    width:50%;
+    float:left;
+}
+.man-icon{
+    width:20%
+}
